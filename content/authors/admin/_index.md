@@ -49,7 +49,7 @@ profiles:
 interests:
   - Biology and automations
   - Pipeline development with Nextflow
-  - Flower watching
+  - Watching paint dry
 
 education:
   - area: MSc
