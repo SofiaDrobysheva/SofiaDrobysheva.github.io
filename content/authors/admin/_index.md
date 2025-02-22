@@ -52,7 +52,7 @@ interests:
   - Watching paint dry
 
 education:
-  - area: MSc
+  - area: MSc Molecular Techniques in Life Sciences
     institution: SciLifeLab
     date_start: 2020-09-01
     date_end: 2022-06-01
