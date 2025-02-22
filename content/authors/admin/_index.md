@@ -140,4 +140,4 @@ languages:
 
 ## About Me
 
-Sofia Drobysheva works as a Data Scientist at Single Cell Discoveries. She enjoys analyzing data, writing Nextflow pipelines, creating plots with ggplot2 and automating repetative tasks, while listning to Daniel Avery and Autechre in the background. 
+Sofia Drobysheva works as a Data Scientist at Single Cell Discoveries. She enjoys analyzing single-cell data, writing Nextflow pipelines, creating plots with ggplot2 and automating repetative tasks, while listning to Daniel Avery and Autechre in the background. 
